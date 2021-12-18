@@ -1,0 +1,11 @@
+body{
+    background-color: honeydew;
+}
+h1{
+    color:blue;
+    background-color: lavender;
+}
+p{
+    color:brown;
+    /*background-color: crimson;*/
+}
