@@ -1,0 +1,30 @@
+header{
+    background-color: #457b9d;
+    color: white;
+}
+ul{
+    margin: 0;
+    padding: 0px;
+    list-style: none;
+}
+li{
+    display: inline;
+    line-height: 50px;
+    
+}
+
+li a{
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+li a:hover{
+    background-color: #1d3557;
+}
+
+h1{
+    color: #1d3557;
+}
